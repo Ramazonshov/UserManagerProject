@@ -10,21 +10,26 @@
 ## Скриншоты работы программы
 
 ### 1. Окно авторизации
-![Авторизация](https://i.imgur.com/5Z8oP4K.png)
+![Авторизация]<img width="275" height="233" alt="АвторизацияОкно" src="https://github.com/user-attachments/assets/ffadec2b-278f-47a6-89e6-504bcf20da63" />
+
 
 ### 2. Добавление / редактирование пользователя
-![Добавление пользователя](https://i.imgur.com/4oY3lZk.png)
+![Добавление пользователя]<img width="215" height="349" alt="ДобНовогоПольз" src="https://github.com/user-attachments/assets/55444a83-5166-43fc-b284-5030c299dab8" />
+
 
 ### 3. Главное окно — режим Администратора
 (видны кнопки добавления, изменения и удаления)
-![Администратор](https://i.imgur.com/0v6cA5N.png)
+![Администратор]<img width="662" height="444" alt="ОкноУдалИзменПольз" src="https://github.com/user-attachments/assets/f639ed0d-5e4c-449d-b3c5-034577b1a8aa" />
+
 
 ### 4. Фильтрация по роли + сортировка
-![Фильтрация и сортировка](https://i.imgur.com/Jm5vL8r.png)
+![Фильтрация и сортировка]<img width="665" height="444" alt="Сортировка" src="https://github.com/user-attachments/assets/5c22a6db-43ec-4706-9e9a-fe16410281bd" />
+
 
 ### 5. Режим гостя
 (все кнопки управления скрыты)
-![Режим гостя](https://i.imgur.com/8pL9kW2.png)
+![Режим гостя]<img width="666" height="441" alt="Гост" src="https://github.com/user-attachments/assets/7fda5842-0840-42f0-aae9-63eb1f3fba38" />
+
 
 ## Как запустить проект
 
